@@ -16,6 +16,16 @@ struct ContentView: View {
             Text("Hello, world!")
             Text("Hello nttregnbe, world!")
             Text("Hello, world! mhefkjbnd")
+            
+            Image(systemName: "globe")
+                .imageScale(.large)
+                .foregroundStyle(.tint)
+            Text("Hello, world!")
+            Text("Hello nttregnbe, world!")
+            Text("Hello, world! mhefkjbnd")
+            
+            
+            
         }
         .padding()
     }
